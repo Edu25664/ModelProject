@@ -1,0 +1,10 @@
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\bin\Debug\netcoreapp3.1\ModelProject1.deps.json
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\bin\Debug\netcoreapp3.1\ModelProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\bin\Debug\netcoreapp3.1\ModelProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.csproj.AssemblyReference.cache
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.AssemblyInfoInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.AssemblyInfo.cs
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.csproj.CoreCompileInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ModelProject1\obj\Debug\netcoreapp3.1\ModelProject1.pdb

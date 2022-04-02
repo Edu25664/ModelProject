@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ControllerProject1/1.0.0": {
+        "dependencies": {
+          "ModelProject1": "1.0.0",
+          "PersistenceProject1": "1.0.0"
+        },
+        "runtime": {
+          "ControllerProject1.dll": {}
+        }
+      },
+      "ModelProject1/1.0.0": {
+        "runtime": {
+          "ModelProject1.dll": {}
+        }
+      },
+      "PersistenceProject1/1.0.0": {
+        "dependencies": {
+          "ModelProject1": "1.0.0"
+        },
+        "runtime": {
+          "PersistenceProject1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControllerProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ModelProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PersistenceProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

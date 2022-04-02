@@ -1,0 +1,13 @@
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.csproj.AssemblyReference.cache
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.AssemblyInfoInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.AssemblyInfo.cs
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.csproj.CoreCompileInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\bin\Debug\netcoreapp3.1\PersistenceProject1.deps.json
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\bin\Debug\netcoreapp3.1\PersistenceProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\bin\Debug\netcoreapp3.1\PersistenceProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\bin\Debug\netcoreapp3.1\ModelProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\bin\Debug\netcoreapp3.1\ModelProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.csproj.CopyComplete
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\PersistenceProject1\obj\Debug\netcoreapp3.1\PersistenceProject1.pdb

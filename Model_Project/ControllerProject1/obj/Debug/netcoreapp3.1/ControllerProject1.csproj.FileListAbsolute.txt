@@ -1,0 +1,15 @@
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.csproj.AssemblyReference.cache
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.AssemblyInfoInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.AssemblyInfo.cs
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.csproj.CoreCompileInputs.cache
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\ControllerProject1.deps.json
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\ControllerProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\ControllerProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\ModelProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\PersistenceProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\ModelProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\bin\Debug\netcoreapp3.1\PersistenceProject1.pdb
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.csproj.CopyComplete
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.dll
+C:\Users\ruatu\source\repos\ModelProject1\ControllerProject1\obj\Debug\netcoreapp3.1\ControllerProject1.pdb
