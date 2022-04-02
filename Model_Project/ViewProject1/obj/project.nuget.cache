@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CTNT5AvZF9IJcEuYo5lts+2fpyhjMpIlREql7vg0fwst6A704HcdJ/YZL2Apa/4g7GsCEDwMyYlKkKx4qdkRyw==",
+  "dgSpecHash": "cYOTPI5WiYILtbF8BWDU6ebHnfuIPrKEKRmLaEnCpPu0yOXM8czoGnJZWC943wGyqQIFf04y4uWvHvCfPMFpNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ViewProject1\\ViewProject1.csproj",
+  "projectFilePath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ViewProject1\\ViewProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruatu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ruatu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",

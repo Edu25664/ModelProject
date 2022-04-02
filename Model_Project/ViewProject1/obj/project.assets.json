@@ -800,11 +800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ViewProject1\\ViewProject1.csproj",
+      "projectUniqueName": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ViewProject1\\ViewProject1.csproj",
       "projectName": "ViewProject1",
-      "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ViewProject1\\ViewProject1.csproj",
+      "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ViewProject1\\ViewProject1.csproj",
       "packagesPath": "C:\\Users\\ruatu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ViewProject1\\obj\\",
+      "outputPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ViewProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruatu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -821,11 +821,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ControllerProject1\\ControllerProject1.csproj": {
-              "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ControllerProject1\\ControllerProject1.csproj"
+            "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ControllerProject1\\ControllerProject1.csproj": {
+              "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ControllerProject1\\ControllerProject1.csproj"
             },
-            "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ModelProject1\\ModelProject1.csproj": {
-              "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\ModelProject1\\ModelProject1.csproj"
+            "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ModelProject1\\ModelProject1.csproj": {
+              "projectPath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\ModelProject1\\ModelProject1.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Cl7pwK738jYhbIAa1yXS20qiX7or1xSH0EXgm1SrrHg95szzua+Jld0r6JkCnJY7wn1UzijcAFhr7ivy7+sqw==",
+  "dgSpecHash": "4x2CI0C3S16VWswXw5js/7goygUBwbFxXrPAo+kJUr3XcxHEHnyMfuFFPbx6iVvCQMC8MN7zeiXeFwSdWN24Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\PersistenceProject1\\PersistenceProject1.csproj",
+  "projectFilePath": "C:\\Users\\ruatu\\source\\repos\\ModelProject1\\Model_Project\\PersistenceProject1\\PersistenceProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruatu\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\ruatu\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
